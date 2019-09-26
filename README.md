@@ -19,7 +19,9 @@ Where `${Problem No}` is the problem number in LeetCode.
 - [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)
 
 - [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/)
-  
+
+- [1191. K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum)
+ 
 ## Reference
 
 - [C++ Reference](http://www.cplusplus.com/reference/)
