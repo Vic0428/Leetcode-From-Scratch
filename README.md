@@ -21,6 +21,8 @@ Where `${Problem No}` is the problem number in LeetCode.
 - [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/)
 
 - [1191. K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum)
+
+- [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)
  
 ## Reference
 
