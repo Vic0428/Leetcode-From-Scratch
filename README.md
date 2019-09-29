@@ -23,7 +23,9 @@ Where `${Problem No}` is the problem number in LeetCode.
 - [1191. K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum)
 
 - [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)
- 
+
+- [1024. Video Stitching](https://leetcode.com/problems/video-stitching) 
+
 ## Reference
 
 - [C++ Reference](http://www.cplusplus.com/reference/)
