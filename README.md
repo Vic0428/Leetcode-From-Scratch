@@ -26,6 +26,9 @@ Where `${Problem No}` is the problem number in LeetCode.
 
 - [1024. Video Stitching](https://leetcode.com/problems/video-stitching) 
 
+#### Others
+- [1238. Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation)
+- 
 ## Reference
 
 - [C++ Reference](http://www.cplusplus.com/reference/)
