@@ -28,6 +28,9 @@ Where `${Problem No}` is the problem number in LeetCode.
 
 - [1223. Dice Roll Simulation](https://leetcode.com/contest/weekly-contest-158/problems/dice-roll-simulation)
 
+#### Tree
+- [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst)
+
 #### Others
 - [1238. Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation)
 - 
