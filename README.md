@@ -36,9 +36,12 @@ Where `${Problem No}` is the problem number in LeetCode.
 
 #### Others
 - [1238. Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation)
-- 
+
+- [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)
+
 ## Reference
 
 - [C++ Reference](http://www.cplusplus.com/reference/)
 - [Huahua’s Tech Road](https://zxi.mytechroad.com/blog/)
+- [Leetcode Discussion](https://leetcode.com)
 
